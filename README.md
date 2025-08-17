@@ -34,15 +34,15 @@ A desktop GUI application that helps freelancers:
 - MySQL Server
 - `mysql-connector-python` library
 ### Database setup
--CREATE DATABASE Freelancer_db;
+- CREATE DATABASE Freelancer_db;
 ### Run the app
--python Freelance_app.py
+- python Freelance_app.py
 
 ## 📂 Files
 
--`Freelance_app.py` - Main application (GUI)
+- `Freelance_app.py` - Main application (GUI)
 
--`Freelance_database.py `- Database operations
+- `Freelance_database.py `- Database operations
 
 ---
 📧 Contact: swathyammu303@gmail.com
