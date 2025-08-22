@@ -1,6 +1,8 @@
 # 💼 Freelance Project Manager
+<img width="1240" height="838" alt="Image" src="https://github.com/user-attachments/assets/537692f4-a513-460d-a576-ef68138f34fa" />
 
-<img width="1240" height="837" alt="image" src="https://github.com/user-attachments/assets/ea1f689a-d60e-410f-b466-d9692e143c7a" />
+
+
 
 *A Tkinter-MySQL application for managing freelance projects*
 
